@@ -1,4 +1,4 @@
-# # Portfolio_in_Whatsapp
+# Portfolio_in_Whatsapp
 
 # Project Overview
 This is a unique twist to the traditional portfolio website, where instead of a typical static display, the project simulates a WhatsApp chat interface. Users can text certain keywords like "skills", "education", or "experience", and receive relevant information such as resume details, education history, skills, address, and more as chat replies. It gives an interactive and engaging experience while showcasing your professional portfolio.
